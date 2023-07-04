@@ -1,0 +1,29 @@
+[
+	{
+		"title": "zapatilla",
+		"description": "zapatilla deportiva",
+		"price": 500,
+		"thumbnail": "img",
+		"code": 1,
+		"stock": 10,
+		"id": 1
+	},
+	{
+		"title": "zapatos",
+		"description": "informal",
+		"price": 300,
+		"thumbnail": "img2",
+		"code": 2,
+		"stock": 23,
+		"id": 2
+	},
+	{
+		"title": "ojota",
+		"description": "para playa",
+		"price": 600,
+		"thumbnail": "img1",
+		"code": 3,
+		"stock": 23,
+		"id": 3
+	}
+]
