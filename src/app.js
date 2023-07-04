@@ -22,7 +22,7 @@ const prodService = new ProductManager("./src/products.json");
          console.log("resultado", result);
          
          const limite = parseInt(req.query.limite);
-         console.log("limite",limite);
+        
          if(limite>0){
             const limitReq = result.filter(prod=>prod.id <=limite);
             res.send(limitReq);
